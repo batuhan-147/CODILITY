@@ -1,7 +1,7 @@
-TOTAL SCORE 100%
-TASK SCORE 100%
-CORRECTNESS 100%
-PERFORMANCE 100%
+//TOTAL SCORE 100%
+//TASK SCORE 100%
+//CORRECTNESS 100%
+//PERFORMANCE 100%
 
 // you can use includes, for example:
 // #include <algorithm>
